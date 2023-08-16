@@ -41,7 +41,7 @@ header{
 .li{
     padding: 20px;
 }
-button{
+.firstb{
     padding: 8px 16px;
 }
 
@@ -80,3 +80,78 @@ h1{
     padding: 20px; 
 }
 /* section 1st styles */
+.secone{
+    width: 1300px;
+    height: 720px;
+    background: #C2F3EE;
+    margin: 0 auto;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 50px;
+}
+h2{
+    color: #272727;
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500; 
+    margin: 0 auto;
+    /* padding: 10px; */
+    /* gap: 10px; */
+    /* vertical-align: middle; */
+    /* display: inline-block; */
+}
+.secondp{
+    color: #515151;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;   
+    width: 400px;
+    gap: 50px;
+    padding: 10px;
+    /* margin-bottom: 200px; */
+    /* margin: 0 auto; */
+}
+
+    /* padding: 203px 130px 193px 853px; */
+    /* display: inline-block; */
+    /* vertical-align: middle; */
+.image{
+    width: 600px;
+    height: 560px;
+    /* vertical-align: middle; */
+}
+.imgdiv{
+    /* display: inline-block; */
+    margin: 0 auto;
+    /* vertical-align: middle; */
+    /* padding: 80px 710px 80px 70px; */
+    vertical-align: middle;
+    display: flex;
+}
+.pdiv{
+    /* display: inline-block; */
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-left: 40px;
+    padding: 30px 30px;
+    width: 600px;
+    height: 560px;
+}
+.secb{
+    font-family: 'Poppins', sans-serif;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    border: 2px #2A9D8F;
+    border-radius: 5px;
+    background-color: #2A9D8F;
+    padding: 14px 28px;  
+    cursor: pointer;
+}
