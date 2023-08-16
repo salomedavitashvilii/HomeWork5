@@ -1,0 +1,46 @@
+/* header styles */
+header{
+    /* margin: auto; */
+    background: #2A9D8F;
+    height: 122px;
+    max-width: 1264px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 40px;
+}
+/* img, ul, li, nav, a, button {
+    display: inline-block;
+} */
+.display_ib{
+    display: inline-block;
+}
+/* .logo{
+    background-color: white;
+    padding: 20px;
+    border-radius: 50%;
+} */
+.im{
+    width: 45.996px;
+    height: 46px;
+    margin-right: 280px;
+    margin-left: 80px;
+    /* background-color: white;
+    border-radius: 50%; */
+    margin-top: 0%;
+}
+.nv{
+    width: 300px;
+    height: 30px;
+    margin-right: 300px;
+    font-family: 'Nerko One', cursive;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.li{
+    padding: 20px;
+}
+button{
+    padding: 8px 16px;
+}
